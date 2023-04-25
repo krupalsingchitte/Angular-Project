@@ -1,0 +1,7 @@
+.wrapper {
+    display:flex;
+    justify-content:center;
+    margin:0 auto;
+    height:auto;
+    font-family: sans-serif;
+  }

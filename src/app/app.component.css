@@ -1,0 +1,27 @@
+button, .blue {
+    background: #0096FF;
+    align-items: center;
+
+   }
+   .wrapper {
+    display:flex;
+    justify-content:center;
+    margin:0 auto;
+    height:auto;
+  }
+   
+   button {
+     margin:10px;
+     background-color: #04AA6D;
+     color: white;
+     padding: 10px 15px;
+     border: none;
+     cursor: pointer;
+     opacity: 0.9;
+     border-radius:5px;
+   }
+   
+   button:hover {
+     opacity:1;
+   }
+   
